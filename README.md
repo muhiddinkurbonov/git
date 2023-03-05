@@ -1,6 +1,6 @@
 # Git Commands
 
-### [Live](https://muhiddinkurbonov.github.io/git-github/)
+### [Live](https://muhiddinkurbonov.github.io/git/)
 
 Designed by [muhiddinkurbonov](https://github.com/muhiddinkurbonov)
 
